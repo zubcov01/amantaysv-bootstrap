@@ -1,0 +1,47 @@
+{
+  "_from": "amantays-bootstrap",
+  "_id": "amantays-bootstrap@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-LvylOMUVaq+T6JU58A666xJl8mtV+nnZcu47Xcf8TL+wpJlKO9KFz8eY4D0Ih1kx8ceNaapyR1ugI+4fkTZAOg==",
+  "_location": "/amantays-bootstrap",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "amantays-bootstrap",
+    "name": "amantays-bootstrap",
+    "escapedName": "amantays-bootstrap",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/amantays-bootstrap/-/amantays-bootstrap-1.0.3.tgz",
+  "_shasum": "8aa81c8cd89aa118de1edf8ec6e77a1b6c712170",
+  "_spec": "amantays-bootstrap",
+  "_where": "D:\\VS Code\\хэтэмэлю сиэсэс\\test",
+  "author": {
+    "name": "amantay.sv"
+  },
+  "bugs": {
+    "url": "https://github.com/amantaysv/my-bootstrap/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "custom bootstrap",
+  "homepage": "https://github.com/amantaysv/my-bootstrap#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "amantays-bootstrap",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amantaysv/my-bootstrap.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
